@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eereiqueti.alvinzheng.com/sitemap.xml
